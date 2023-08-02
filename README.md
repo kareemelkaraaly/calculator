@@ -1,4 +1,8 @@
 # Calculator Web App
+## My Name: Kareem Mohamed
+#### Video Demo:  <URL HERE>
+
+# Calculator Web App
 
 This is a simple calculator web application that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The app is built using HTML, CSS, and JavaScript, and it provides a user-friendly interface for performing calculations.
 
@@ -42,7 +46,7 @@ This calculator project was inspired by the desire to create a simple and functi
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [kareemelkaraaly](https://github.com/kareemelkaraaly)
 
 ---
 
